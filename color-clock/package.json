@@ -1,0 +1,19 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "react",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo 'Hello World!'",
+    "start": "serve"
+  },
+  "keywords": [
+    "javaScript"
+  ],
+  "author": "Evalyne Wanjiku",
+  "license": "ISC",
+  "dependencies": {
+    "date-fns": "^2.29.3",
+    "serve": "^14.1.2"
+  }
+}
